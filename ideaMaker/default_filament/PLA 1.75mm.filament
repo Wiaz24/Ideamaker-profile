@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "2481df9c-9066-463a-9aa0-693e8435b183",
+        "filament_name": "PLA 1.75mm"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "Plast-Spaw",
+        "filament_density": 1240,
+        "filament_diameter": 1.75,
+        "filament_display_name": "PLA Plast-Spaw",
+        "filament_flowrate": 100,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "PLA",
+        "filament_notes": "",
+        "filament_price": 50
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}

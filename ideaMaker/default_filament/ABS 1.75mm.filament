@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "0fe8c57f-83cb-41d4-a3e0-575159f24b47",
+        "filament_name": "ABS 1.75mm"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "Raise3D",
+        "filament_density": 1120,
+        "filament_diameter": 1.75,
+        "filament_display_name": "ABS+ Devil Design",
+        "filament_flowrate": 95,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "ABS",
+        "filament_notes": "",
+        "filament_price": 50
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}

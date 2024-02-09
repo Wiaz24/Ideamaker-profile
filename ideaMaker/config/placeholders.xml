@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+	<placeholders>
+		<item>layer_default_speed</item>
+		<item>retraction_speed1</item>
+		<item>temperature_extruder1</item>
+		<item>temperature_extruder2</item>
+		<item>temperature_heatbed</item>
+		<item>extruder_switch_retaction_amount</item>
+	</placeholders>
+</config>

@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "464f9f02-194f-428b-acc2-98659a3cb204",
+        "filament_name": "ESUN PLA+"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "eSUN",
+        "filament_density": 1240,
+        "filament_diameter": 1.75,
+        "filament_display_name": "eSUN PLA+",
+        "filament_flowrate": 100,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "PLA+",
+        "filament_notes": "",
+        "filament_price": 88
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}

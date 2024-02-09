@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "5a9a3d77-3fd9-46b6-b539-59b981df3dec",
+        "filament_name": "NANOCARBON F3D"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "F3D",
+        "filament_density": 1240,
+        "filament_diameter": 1.75,
+        "filament_display_name": "NANOCARBON F3D",
+        "filament_flowrate": 100,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "Nano carbon",
+        "filament_notes": "",
+        "filament_price": 325
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}

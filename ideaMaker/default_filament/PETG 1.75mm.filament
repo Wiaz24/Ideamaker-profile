@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "7bad2bb1-cd6c-47c1-bbe1-44e3256ca36c",
+        "filament_name": "PETG 1.75mm"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "Raise3D",
+        "filament_density": 1270,
+        "filament_diameter": 1.75,
+        "filament_display_name": "PETG fiberlogy",
+        "filament_flowrate": 98,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "PETG",
+        "filament_notes": "",
+        "filament_price": 70
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}

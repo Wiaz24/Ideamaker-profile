@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "01cf80e8-7e10-48a4-b971-d7d3b62811a7",
+        "filament_name": "PC In F3D"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "F3D",
+        "filament_density": 1240,
+        "filament_diameter": 1.75,
+        "filament_display_name": "PC In",
+        "filament_flowrate": 105,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "PC",
+        "filament_notes": "",
+        "filament_price": 150
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}

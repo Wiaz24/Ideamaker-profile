@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "fd3fec9f-25e3-4589-b7e5-e8d4deaff191",
+        "filament_name": "Elastic Filament 1.75mm"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "",
+        "filament_density": 1200,
+        "filament_diameter": 1.75,
+        "filament_display_name": "TPU F3D",
+        "filament_flowrate": 98,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "ELASTIC",
+        "filament_notes": "",
+        "filament_price": 100
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}

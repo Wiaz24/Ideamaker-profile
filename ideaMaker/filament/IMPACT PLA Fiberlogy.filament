@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "856c87f5-6d46-4004-9006-946f7453648e",
+        "filament_name": "IMPACT PLA Fiberlogy"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "Fiberlogy",
+        "filament_density": 1240,
+        "filament_diameter": 1.75,
+        "filament_display_name": "IMPACT PLA",
+        "filament_flowrate": 100,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "IMPACT PLA",
+        "filament_notes": "",
+        "filament_price": 111.76
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}

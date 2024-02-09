@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "e70ce828-94d8-4899-a1d6-e6df44a408fc",
+        "filament_name": "PLA 1.75 - Sapphire Plus"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "F3D",
+        "filament_density": 1240,
+        "filament_diameter": 1.75,
+        "filament_display_name": "Sapphire Plus - 3DPrintBeginner",
+        "filament_flowrate": 95,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "Tpu pobrane",
+        "filament_notes": "",
+        "filament_price": 18
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}

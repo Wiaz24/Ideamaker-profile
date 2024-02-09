@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "7f474695-e557-4da4-b831-2954a4d8e576",
+        "filament_name": "PLA marmurek"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "F3D",
+        "filament_density": 1240,
+        "filament_diameter": 1.75,
+        "filament_display_name": "PLA marmurek",
+        "filament_flowrate": 100,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "",
+        "filament_notes": "",
+        "filament_price": 115
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}
